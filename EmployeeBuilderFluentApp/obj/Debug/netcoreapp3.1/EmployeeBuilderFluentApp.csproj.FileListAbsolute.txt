@@ -1,0 +1,10 @@
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\bin\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.exe
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\bin\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.deps.json
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\bin\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.runtimeconfig.json
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\bin\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.runtimeconfig.dev.json
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\bin\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.dll
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\bin\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.pdb
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\obj\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.AssemblyInfoInputs.cache
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\obj\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.AssemblyInfo.cs
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\obj\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.dll
+C:\Users\Cristian.Moreno\source\repos\EmployeeBuilderFluentApp\EmployeeBuilderFluentApp\obj\Debug\netcoreapp3.1\EmployeeBuilderFluentApp.pdb
